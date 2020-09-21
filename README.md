@@ -52,3 +52,7 @@ Accessible modal dialog component for React.JS
 
 A datetime picker for your React app.
 [link](https://www.npmjs.com/package/react-datetime-picker)
+
+### Sweetalert2
+
+Libreria para manejar desitintos tipos alerts con un minimo diseño [link](https://sweetalert2.github.io/)
