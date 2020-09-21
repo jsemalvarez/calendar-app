@@ -30,15 +30,20 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Recursos externos 
 
-### `Font Awesome`
+### Font Awesome
 
 Del sitio cdnjs usamos [font-awesome](https://cdnjs.com/libraries/font-awesome)
 
-### `Bigcalendar`
+### Bigcalendar
 
 An events calendar component built for React and made for modern browsers (read: IE10+) and uses flexbox over the classic tables-ception approach. ([react-big-calendar](https://www.npmjs.com/package/react-big-calendar)) 
 
-### `Moments`
+### Moments
 
 Libreria para manejar las fechas
 [link](https://momentjs.com/)
+
+### react-modal
+
+Accessible modal dialog component for React.JS
+[link](https://www.npmjs.com/package/react-modal)
