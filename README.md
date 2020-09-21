@@ -56,3 +56,8 @@ A datetime picker for your React app.
 ### Sweetalert2
 
 Libreria para manejar desitintos tipos alerts con un minimo diseño [link](https://sweetalert2.github.io/)
+
+### Redux-Thunk
+
+Para manejar tareas asincronas en ridux
+[link](https://www.npmjs.com/package/redux-thunk)

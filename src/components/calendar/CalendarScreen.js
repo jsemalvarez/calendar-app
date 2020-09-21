@@ -3,7 +3,7 @@ import {Calendar, momentLocalizer} from 'react-big-calendar'
 import moment from 'moment'
 
 import { NavBar } from '../../ui/NavBar'
-import { messages } from '../helpers/calendar-messages-es'
+import { messages } from '../../helpers/calendar-messages-es'
 import { CalendarEvent } from './CalendarEvent'
 import { CalendarModal } from './CalendarModal'
 
