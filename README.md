@@ -43,7 +43,12 @@ An events calendar component built for React and made for modern browsers (read:
 Libreria para manejar las fechas
 [link](https://momentjs.com/)
 
-### react-modal
+### React-Modal
 
 Accessible modal dialog component for React.JS
 [link](https://www.npmjs.com/package/react-modal)
+
+### React-DateTime-Picker
+
+A datetime picker for your React app.
+[link](https://www.npmjs.com/package/react-datetime-picker)
