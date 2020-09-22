@@ -59,5 +59,5 @@ Libreria para manejar desitintos tipos alerts con un minimo diseño [link](https
 
 ### Redux-Thunk
 
-Para manejar tareas asincronas en ridux
+Para manejar tareas asincronas en redux
 [link](https://www.npmjs.com/package/redux-thunk)
